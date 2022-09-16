@@ -1,0 +1,11 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: single
+
+#daniel (dot) messenger (at) colorado (dot) edu
+---
+
+I am currently a postdoctoral research associate at the University of Colorado Boulder conducting research at the intersection of dynamical systems, data science, and mathematical biology. My main interests include algorithms for data-driven modeling, and the analysis and simulation of complex phenomena across multiple scales, from the discete
+ (particle) level to continuous (hydrodynamic) descriptions. I also enjoy teaching and learning about a wide variety of mathematical subjects and phenomena in the natural and social sciences.

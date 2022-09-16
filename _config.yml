@@ -19,19 +19,52 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Daniel Ames Messenger, PhD
+name: Daniel Ames Messenger
 email: daniel (dot) messenger (at) colorado (dot) edu
-description: >- # this means to ignore newlines until "baseurl:"
-  I am an applied mathematician conducting research at the intersection of dynamical systems, data science, and mathematical biology. I enjoy teaching and learning about a wide variety of mathematical subjects and phenomena in the natural and social sciences.
-  
+description: ["Applied mathematician, drummer, outdoor enthusiast."]
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+include:
+  - _pages
+  - _posts
+  - about.md
+  - index.md
+
+# settings for author profile
+author:
+  avatar : "/assets/images/avatar.png"
+  email  : daniel.messenger@colorado.edu
+  github : dm973
+  googlescholar : "https://scholar.google.com/citations?user=bg1DXK0AAAAJ&hl=en"  
+  
+# default YAML front matter
+defaults:
+  # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      mathjax: true
+      author_profile: true
+      class: wide
+      title: " "
+      title_separator: "|"
+  # posts
+  - scope:
+      type: posts
+    values:
+      toc: true
+      toc_label: "Contents"
+      read_time: true
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
