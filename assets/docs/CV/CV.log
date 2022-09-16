@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  16 SEP 2022 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  16 SEP 2022 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -572,65 +572,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
+(./CV.bbl)
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
-Overfull \hbox (3.86586pt too wide) in paragraph at lines 81--98
-[][] 
  []
 
-(./CV.bbl)
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
+Overfull \hbox (11.26167pt too wide) in paragraph at lines 110--111
+\OT1/cmr/m/n/10.95 ter-ac-tion rules from in-di-vid-ual tra-jec-to-ries in a he
+t-ero-ge-neous cel-lu-lar pop-u-la-tion.  |   []
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{enumerate}
-                      [2]
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
-
- []
-
-
-Overfull \hbox (3.86586pt too wide) in paragraph at lines 144--163
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
-
- []
-
-
-Overfull \hbox (18.09224pt too wide) in paragraph at lines 166--177
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
-
- []
-
-
-Overfull \hbox (101.22412pt too wide) in paragraph at lines 180--190
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
@@ -638,19 +599,35 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.192 
-       [3]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+l.144 \item \textbf
+                   {Online Weak-form Sparse Identification of Partial Differ...
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+Overfull \hbox (3.86586pt too wide) in paragraph at lines 149--168
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
 
-Overfull \hbox (186.29802pt too wide) in paragraph at lines 197--203
+Overfull \hbox (18.09224pt too wide) in paragraph at lines 171--182
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Overfull \hbox (101.22412pt too wide) in paragraph at lines 185--195
 [][] 
  []
 
@@ -658,15 +635,40 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.208 \end{document}
+l.196 \headr{Programming Languages}
+                                    [3]
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Overfull \hbox (186.29802pt too wide) in paragraph at lines 202--208
+[][] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.213 \end{document}
                      [4] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12862 strings out of 480171
- 201352 string characters out of 5894489
- 527471 words of memory out of 5000000
+ 12863 strings out of 480171
+ 201359 string characters out of 5894489
+ 526471 words of memory out of 5000000
  30589 multiletter control sequences out of 15000+600000
  476387 words of font info for 55 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
@@ -679,10 +681,10 @@ rm1095.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (4 pages, 113465 bytes).
+Output written on CV.pdf (4 pages, 115169 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 27 named destinations out of 1000 (max. 500000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 28 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
