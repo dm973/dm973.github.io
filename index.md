@@ -7,5 +7,8 @@ layout: single
 #daniel (dot) messenger (at) colorado (dot) edu
 ---
 
-I am currently a postdoctoral research associate at the University of Colorado Boulder conducting research at the intersection of dynamical systems, data science, and mathematical biology. My main interests include algorithms for data-driven modeling, and the analysis and simulation of complex phenomena across multiple scales, from the discete
- (particle) level to continuous (hydrodynamic) descriptions. I also enjoy teaching and learning about a wide variety of mathematical subjects and phenomena in the natural and social sciences.
+I am currently a postdoctoral research associate in Dr. Bortz' lab at the University of Colorado Boulder. I work at the intersection of dynamical systems, data science, and mathematical biology. My main interests include algorithms for data-driven modeling, and the analysis and simulation of complex phenomena across multiple scales, from particle to continuum descriptions.
+
+Apart from research, my hobbies include playing music, cooking, biking, snowboarding, and generally being out in the wilderness.
+
+Please check out my [CV](/assets/docs/CV/CV.pdf) and contact me if you're interested collaborating!

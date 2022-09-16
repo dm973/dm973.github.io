@@ -1,0 +1,209 @@
+\documentclass[letterpaper,11pt,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{ulem}
+
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumitem}
+\usepackage{amsmath, mathtools}
+\usepackage{datetime}
+\usepackage{natbib}
+\usepackage{bibentry}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+  \graphicspath{ {images/}} %upload your signature to this file
+%Change the margins to fit your CV/resume content
+\usepackage[left=0.8in, right=0.8in, bottom=0.8in, top=0.5in]{geometry}
+
+%Skype information - include your Skype name for a link to add you on Skype
+\newcommand*{\Skype}{\href{skype:john.smith?add}{john.smith}} 
+\newcommand{\Absender}[1][\normalsize]{\Skype} 
+\newcommand{\headr}[1]{\vspace{10pt}\uline{\Large{\textbf{#1}} \hfill } \\ \vspace{-10pt}\\}
+\renewcommand{\refname}{\headr{Publications}\vspace{-1cm}}
+%Changes the page numbers - {arabic}=arabic numerals, {gobble}=no page numbers, {roman}=Roman numerals
+\pagenumbering{gobble}
+
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%% NAME OF APPLICANT %%%%%%%%%%%%%%%%%%%
+%
+\noindent 
+\LARGE{\textbf{Daniel Ames Messenger} \hspace{2.5in} \textbf{\monthyeardate\today}}   \\
+%\vspace{-2ex}
+%\hline 
+\normalsize
+%
+%%%%%%%%%%%%%%%%% CONTACT INFORMATION %%%%%%%%%%%%%%%%%
+% Your email address, website, and Skype name are links to send email, open your website and add you on Skype. 
+%
+\begin{center}
+\begin{tabular}{l l}
+ PhD Candidate, University of Colorado at Boulder    & \hspace{1in} \href{mailto:daniel.messenger@colorado.edu}{daniel.messenger@colorado.edu} \\
+Department of Applied Mathematics    & \hspace{1in}  +1 (973) 476-8854 \\
+\end{tabular}\\ \vspace{0.5cm}
+\begin{tabular}{l l}
+Google Scholar: \url{https://scholar.google.com/citations?user=bg1DXK0AAAAJ&hl=en&oi=ao} & \\
+Github: (personal) \url{https://github.com/dm973} \quad (group) \url{https://github.com/MathBioCU} &\\
+\end{tabular}
+\end{center}
+
+%%%%%%%%%%%%%%%%% MAIN BODY %%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The main body is contained in a tabular environment. To move sections onto the next page, simply end the tabular environment and begin a new tabular environment.
+%\vspace{5mm}
+
+\headr{Education}
+ 
+\begin{tabular}{@{} p{0.01cm} p{4.2cm} p{5.5cm} p{8cm}}
+& August 2022 (Expected) & \textbf{PhD} Applied Mathematics & University of Colorado Boulder (CU)\\ 
+&July 2019 & \textbf{MSc} Applied Mathematics & Simon Fraser University (SFU)\\ 
+&May 2015  & \textbf{BSc} Mathematics, \textbf{BA} Physics & University of Puget Sound (UPS)\\
+\end{tabular}
+
+\headr{Research Interests}
+%
+\begin{tabular}{@{} p{0.01cm} p{15cm}}
+&\begin{itemize}
+\item Robust, efficient machine learning algorithms for automated discovery of mathematical models from data
+\item Emergent phenomena in large systems of autonomous agents (e.g.\ financial markets, autonomous vehicles, biological swarms, plasma physics) 
+\end{itemize}
+\end{tabular}
+
+\headr{Research Experience}
+
+\begin{tabular}{@{} p{0.01cm} p{4cm} p{12cm}}
+& Summer 2020 - \newline(current)  & 
+\textbf{Research Assistant}, Department of Applied Mathematics, CU \newline
+Supervisor: David Bortz \\
+&     & \\
+& Summer 2019  & 
+\textbf{Research Assistant}, Department of Mathematics, SFU
+\newline Supervisors: Razvan Fetecau, Ralf Wittenberg \\
+&     & \\
+& Summer 2018  & 
+\textbf{Research Assistant}, Department of Mathematics, SFU
+\newline Supervisors: Razvan Fetecau, Ralf Wittenberg \\
+&     & \\
+& Summer 2014  & 
+\textbf{Research Intern},  Visiting Faculty Program, U.S. Department of Energy, Pacific Northwest National Lab (PNNL)
+\newline Supervisors: Amanda Mifflin (UPS), P. El-Khoury (PNNL) 
+\end{tabular}
+
+
+\bibliographystyle{plain}
+\nobibliography{researchCU.bib}
+
+\headr{Preprints}
+
+\begin{itemize}
+\item \bibentry{messenger_online_2022}
+\item \bibentry{messenger2022learning}
+\end{itemize}
+\newpage
+\headr{Articles}
+
+\begin{enumerate}
+\item \bibentry{messenger2021learning}
+\item \bibentry{messenger_weak_2021-1}
+\item \bibentry{messenger_weak_2021}
+\item \bibentry{messenger_equilibria_2020}
+\item \bibentry{fetecau2018zero}
+\end{enumerate}
+
+%\cite{messenger2022learning}
+
+%\bibliography{researchCU.bib}
+
+\headr{Posters \& Presentations}
+
+\begin{enumerate}[label={[\arabic*]}]
+\item \textbf{Normal and Enhanced Vibrational Spectroscopy}. Summer Intern Research Symposium, Pacific Northwest National Laboratory, Richland, WA. July 28, 2014.
+\item \textbf{Normal and Enhanced Vibrational Spectroscopy}. Fall Physics Research Symposium, University of Puget Sound, Tacoma, WA. Oct. 17, 2014.
+\item \textbf{Self-Organization in Domains with Boundaries}. Math Graduate Seminar, Simon Fraser University, Burnaby, BC. July 12, 2018.
+\item \textbf{Interacting Particle Systems: Numerics for the Zero-Diffusion Limit}. Canadian Mathematical Society (CAS), Winter Meeting, Vancouver, BC. Dec. 7, 2018.
+\item \textbf{Aggregation-Diffusion Phenomena in Domains with Boundaries}. Canadian Applied and Industrial Mathematics Society (CAIMS), Annual Meeting, Whistler, BC. June 10, 2019.
+\item \textbf{Aggregation-Diffusion Phenomena in Domains with Boundaries}. Mathematical Biology Seminar, University of Colorado, Boulder, CO. Dec. 10, 2019.
+\item \textbf{Aggregation-Diffusion Phenomena in Domains with Boundaries}. SIAM Front Range Student Conference, University of Colorado, Denver, CO. March 7, 2020.
+\item \textbf{Weak SINDy: Galerkin-Based Data-Driven Model Selection}. SAMM 2020, Max Planck Institute for Dynamics of Complex Systems, Magdeburg, GE. July 27, 2020.
+\item \textbf{Data-Driven Model Selection using Weak SINDy}. Mathematical Biology Seminar, University of Colorado, Boulder, CO. Sept. 21, 2020.
+\item \textbf{Data-Driven Model Selection using Weak SINDy}. APPM Recruitment Symposium, University of Colorado, Boulder, CO. March 5, 2021.
+\item \textbf{Data-Driven Model Selection using Weak SINDy}. T-5 Reading Group, Theoretical Division, Los Alamos National Laboratory, NM. Aug. 6, 2021.
+\item \textbf{Data-Driven Model Selection using Weak SINDy}. APPM Recruitment Symposium, University of Colorado, Boulder, CO. March. 11, 2022.
+\item \textbf{Data-Driven Model Selection using Weak SINDy}. AI Institute in Dynamics, University of Washington, Seattle, WA. March. 16, 2022.
+\end{enumerate}
+
+\headr{Teaching}
+
+\begin{tabular}{@{} p{0.01cm} p{2cm} p{14cm}}
+& 2020- 2021 & \textbf{Co-Instructor} \\
+&		 & Department of Applied Mathematics, CU Boulder \\
+&     & APPM 7400 Teaching Excellend (Fall 2020)\\
+&&\\
+& 2019 - 2020 & \textbf{Teaching Assistant} \\
+&		 & Department of Applied Mathematics, CU Boulder \\
+&     & APPM 2350 Calculus III \& Differential equation (Spring 2019)\\
+&     & APPM 2360 Differential Equations (Spring 2020)\\
+&     & APPM 1350 Calculus I (Fall 2020)\\
+&&\\
+& 2017 - 2019  & \textbf{Teaching Assistant} \\
+&		 & Department of Mathematics, Simon Fraser University \\
+&     & Numerical Analysis (MACM 316), Set Theory and Logic (MATH 303), Differential Equations (MATH 310), Calculus I,II,III\\
+&&\\
+& 2015  &\textbf{Lab Assistant} \\
+&    &Physics Department, University of Puget Sound \\
+&     & College Physics 2 (PHYS 110) \\
+\end{tabular}
+
+\headr{Professional Service}
+
+\begin{tabular}{@{} p{0.01cm} p{4.5cm} p{12cm}}
+& Fall 2021 - Spring 2022 & \textbf{President}, SIAM Chapter at University of Colorado Boulder\\
+& Fall 2021 - Spring 2022  & \textbf{Peer mentor}, Department of Applied Mathematics, University of Colorado Boulder\\
+& Fall 2021  & \textbf{Organizer, Co-creator}, APPM Graduate Student Seminar, Department of Applied Mathematics\\
+& Summer 2020 - Spring 2021 & \textbf{Lead Teaching Assistant}, Center for Teaching and Learning \& Department of Applied Mathematics, University of Colorado Boulder\\
+& Spring 2020, Spring 2021, Spring 2022  & \textbf{Organizer}, SIAM Front Range Student Conference \\
+& Fall 2019  & \textbf{Secretary}, SIAM Chapter at University of Colorado Boulder\\
+& Fall 2018 - Summer 2019 & \textbf{Vice President}, grill master, ski-trip organizer, Math Graduate Caucus, Simon Fraser University\\
+& Spring 2019 & \textbf{Councilor}, Graduate Student Society, Simon Fraser University\\
+& Fall 2019 - Spring 2019 & \textbf{Committee Member}, Internal Relations Committee, Teacher and Support Staff Union, Simon Fraser University \\
+\end{tabular}
+
+\headr{Awards \& Scholarships}
+
+\begin{tabular}{@{} p{0.01cm} p{2cm} p{9cm} p{8cm}}
+& 2019 & Special Entrance Scholarship ($\$5,000$) & CU Boulder \\
+& 2019 & MSc Thesis Certificate with Distinction & SFU \\
+&2018 & Best Poster Award & SFU Summer Research Symposium \\
+&2018 & Graduate Fellowship $(\$6,500)$ & SFU \\
+&2017 & Special Entrance Scholarship $(\$3,000)$ & SFU \\
+%&2015 & Successful Participant & Mathematical Contest in Modeling \\
+&2011-2015 & Dean’s Scholarship ($\$14,000$ annually) & UPS\\
+&2012-2014 & Hoffman Construction Scholarship ($\$2,000$ annually) & UPS\\ 
+\end{tabular}
+
+\headr{Programming Languages}
+
+MATLAB, \LaTeX, Git, Linux, Python, Mathematica\\
+
+\headr{General Work Experience}
+
+\begin{tabular}{@{} p{0.5cm} p{4.5cm} p{5cm} p{12cm}}
+& Fall 2016-Summer 2017 & \textbf{Math and Physics Tutor} & Fusion Math, Seattle, WA\\
+& Fall 2016-Summer 2017 & \textbf{IT Technician} & Jet City IT, Seattle, WA\\
+& Summer 2016 & \textbf{Logistics Manager} & Mountain Travel Sobek, Gustavus, AK\\
+& Summer 2015 - Spring 2016 & \textbf{Sales Representative} & Reliable Credit Assoc., Federal Way, WA\\
+\end{tabular}
+
+%\Large{Professional} & American Mathematical Society (AMS)\\
+%\Large{Memberships} & Canadian Mathematical Society (CMS)\\
+%& Society for Industrial and Applied Mathematics (SIAM)\\
+
+\end{document}
+
