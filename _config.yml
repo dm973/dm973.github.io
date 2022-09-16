@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am an applied mathematician conducting research at the intersection of dynamical systems, data science, and mathematical biology. I enjoy teaching and learning about a wide variety of mathematical subjects and phenomena in the natural and social sciences.
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dm973.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
