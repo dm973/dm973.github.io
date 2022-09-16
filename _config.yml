@@ -60,12 +60,14 @@ defaults:
       read_time: true
 
 # Build settings
-#remote_theme: "mmistakes/minimal-mistakes"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
