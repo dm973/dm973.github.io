@@ -37,7 +37,8 @@ author:
   avatar : "/assets/images/avatar.png"
   email  : daniel.messenger@colorado.edu
   github : MathBioCU
-  googlescholar : "https://scholar.google.com/citations?user=bg1DXK0AAAAJ&hl=en"  
+  googlescholar : "https://scholar.google.com/citations?user=bg1DXK0AAAAJ&hl=en"
+  orcid : "https://orcid.org/0000-0002-8275-7888"
   
 # default YAML front matter
 defaults:
