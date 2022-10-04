@@ -1,9 +1,18 @@
 \begin{thebibliography}{1}
 
+\bibitem{messenger_online_2022}
+Daniel A.~Messenger, Emiliano Dall'Anese, and David Bortz.
+\newblock Online weak-form sparse identification of partial differential
+  equations.
+\newblock In Bin Dong, Qianxiao Li, Lei Wang, and Zhi-Qin~John Xu, editors,
+  {\em Proceedings of Mathematical and Scientific Machine Learning}, volume 190
+  of {\em Proceedings of Machine Learning Research}, pages 241--256. PMLR,
+  15--17 Aug 2022.
+
 \bibitem{fetecau2018zero}
 Razvan~C. Fetecau, Hui Huang, Daniel Messenger, and Weiran Sun.
 \newblock Zero-diffusion limit for aggregation equations over bounded domains.
-\newblock {\em Discrete and Continuous Dynamical Systems}, 2022.
+\newblock {\em Discrete and Continuous Dynamical Systems}, {Oct.} 2022.
 
 \bibitem{messenger_equilibria_2020}
 Daniel Messenger and Razvan~C. Fetecau.
@@ -16,28 +25,20 @@ Daniel Messenger and Razvan~C. Fetecau.
 Daniel~A. Messenger and David~M. Bortz.
 \newblock Weak {SINDy} {For} {Partial} {Differential} {Equations}.
 \newblock {\em Journal of Computational Physics}, 443:110525, October 2021.
-\newblock arXiv: 2007.02848.
+
+\bibitem{messenger2021learning}
+Daniel~A. Messenger and David~M. Bortz.
+\newblock Learning mean-field equations from particle data using wsindy.
+\newblock {\em Physica D: Nonlinear Phenomena}, page 133406, {July} 2022.
 
 \bibitem{messenger_weak_2021-1}
 Daniel~A. Messenger and David~M. Bortz.
 \newblock Weak {SINDy}: {Galerkin}-{Based} {Data}-{Driven} {Model} {Selection}.
-\newblock {\em SIAM Multiscale Modeling \& Simulation}, 19(3):1474--1497, 2021.
-\newblock arXiv: 2005.04339.
-
-\bibitem{messenger2021learning}
-Daniel~A Messenger and David~M Bortz.
-\newblock Learning mean-field equations from particle data using wsindy.
-\newblock {\em Physica D: Nonlinear Phenomena}, page 133406, 2022.
-
-\bibitem{messenger_online_2022}
-Daniel~A. Messenger, Emiliano Dall'Anese, and David~M. Bortz.
-\newblock Online {Weak}-form {Sparse} {Identification} of {Partial}
-  {Differential} {Equations}.
-\newblock {\em {\it (To appear in {PMLR})} arXiv:2203.03979}, March 2022.
-\newblock arXiv: 2203.03979.
+\newblock {\em SIAM Multiscale Modeling \& Simulation}, 19(3):1474--1497,
+  {Sept.} 2021.
 
 \bibitem{messenger2022learning}
-Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
+Daniel~A. Messenger, Graycen~E. Wheeler, Xuedong Liu, and David~M. Bortz.
 \newblock Learning anisotropic interaction rules from individual trajectories
   in a heterogeneous cellular population.
 \newblock {\em {\it (To appear in {JRSI})} arXiv preprint arXiv:2204.14141},
