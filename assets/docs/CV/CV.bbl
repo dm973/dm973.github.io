@@ -37,11 +37,10 @@ Daniel~A. Messenger and David~M. Bortz.
 \newblock {\em SIAM Multiscale Modeling \& Simulation}, 19(3):1474--1497,
   {Sept.} 2021.
 
-\bibitem{messenger2022learning}
-Daniel~A. Messenger, Graycen~E. Wheeler, Xuedong Liu, and David~M. Bortz.
+\bibitem{messenger2022learninganisotropic}
+Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
 \newblock Learning anisotropic interaction rules from individual trajectories
   in a heterogeneous cellular population.
-\newblock {\em {\it (To appear in {JRSI})} arXiv preprint arXiv:2204.14141},
-  May 2022.
+\newblock {\em Journal of the Royal Society Interface}, 19, October 2022.
 
 \end{thebibliography}
