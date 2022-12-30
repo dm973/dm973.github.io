@@ -26,6 +26,12 @@ Daniel~A. Messenger and David~M. Bortz.
 \newblock Weak {SINDy} {For} {Partial} {Differential} {Equations}.
 \newblock {\em Journal of Computational Physics}, 443:110525, October 2021.
 
+\bibitem{messenger2022asymptotic}
+Daniel~A Messenger and David~M Bortz.
+\newblock Asymptotic consistency of the {WSIND}y algorithm in the limit of
+  continuum data.
+\newblock {\em arXiv preprint arXiv:2211.16000}, 2022.
+
 \bibitem{messenger2021learning}
 Daniel~A. Messenger and David~M. Bortz.
 \newblock Learning mean-field equations from particle data using wsindy.
