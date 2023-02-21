@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  21 FEB 2023 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  21 FEB 2023 13:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -614,34 +614,34 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.191 \newpage
+l.192 \newpage
                [3]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 
-Overfull \hbox (3.86586pt too wide) in paragraph at lines 195--213
+Overfull \hbox (3.86586pt too wide) in paragraph at lines 196--214
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
 
-Overfull \hbox (18.09224pt too wide) in paragraph at lines 217--230
+Overfull \hbox (18.09224pt too wide) in paragraph at lines 218--231
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
 
-Overfull \hbox (101.22412pt too wide) in paragraph at lines 233--244
+Overfull \hbox (101.22412pt too wide) in paragraph at lines 234--245
 [][] 
  []
 
@@ -649,14 +649,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.245 \newpage
+l.246 \newpage
                [4]
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 
  []
 
@@ -664,16 +664,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.263 \end{document}
+l.264 \end{document}
                      [5] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12874 strings out of 480171
- 201561 string characters out of 5894489
+ 12876 strings out of 480171
+ 201586 string characters out of 5894489
  528486 words of memory out of 5000000
- 30589 multiletter control sequences out of 15000+600000
+ 30590 multiletter control sequences out of 15000+600000
  475700 words of font info for 53 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  70i,12n,76p,1003b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -682,10 +682,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (5 pages, 100347 bytes).
+Output written on CV.pdf (5 pages, 100470 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 41 named destinations out of 1000 (max. 500000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 42 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
