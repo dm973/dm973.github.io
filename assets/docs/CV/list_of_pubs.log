@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  9 FEB 2023 19:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  5 FEB 2023 20:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV.tex
-(./CV.tex
+**list_of_pubs.tex
+(./list_of_pubs.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -441,8 +441,8 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count319
 \l__pdf_internal_box=\box59
 )
-(./CV.aux)
-\openout1 = `CV.aux'.
+(./list_of_pubs.aux)
+\openout1 = `list_of_pubs.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -463,7 +463,8 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 Package hyperref Info: Link coloring OFF on input line 34.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -478,9 +479,9 @@ LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
 
-(./CV.out) (./CV.out)
+(./list_of_pubs.out) (./list_of_pubs.out)
 \@outlinefile=\write3
-\openout3 = `CV.out'.
+\openout3 = `list_of_pubs.out'.
 
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -542,150 +543,75 @@ File: fc-english.def 2016/01/12
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--47
-
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+(./list_of_pubs.bbl)
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
 
-Overfull \hbox (64.23544pt too wide) in paragraph at lines 65--70
-[][] 
- []
+Package natbib Warning: Citation `messenger2022asymptotic' undefined on input l
+ine 42.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-(./CV.bbl)
-Underfull \hbox (badness 10000) in paragraph at lines 106--108
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Package natbib Warning: Citation `messenger2022learninganisotropic' undefined o
+n input line 48.
 
- []
+
+Package natbib Warning: Citation `messenger_online_2022' undefined on input lin
+e 49.
+
+
+Package natbib Warning: Citation `messenger2021learning' undefined on input lin
+e 50.
+
+
+Package natbib Warning: Citation `messenger_weak_2021' undefined on input line 
+51.
+
+
+Package natbib Warning: Citation `messenger_weak_2021-1' undefined on input lin
+e 52.
+
+
+Package natbib Warning: Citation `messenger_equilibria_2020' undefined on input
+ line 53.
+
+
+Package natbib Warning: Citation `fetecau2018zero' undefined on input line 54.
+
+
+Package natbib Warning: There were undefined citations.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./list_of_pubs.aux
 
- []
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.168 \item \textbf
-                   {Aggregation-Diffusion Phenomena in Domains with Boundari...
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.191 \newpage
-               [3]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
-
- []
-
-
-Overfull \hbox (3.86586pt too wide) in paragraph at lines 195--213
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-
-Overfull \hbox (18.09224pt too wide) in paragraph at lines 217--230
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
-
- []
-
-
-Overfull \hbox (101.22412pt too wide) in paragraph at lines 233--244
-[][] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.245 \newpage
-               [4]
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.263 \end{document}
-                     [5] (./CV.aux)
-Package rerunfilecheck Info: File `CV.out' has not changed.
+)
+Package rerunfilecheck Info: File `list_of_pubs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12874 strings out of 480171
- 201561 string characters out of 5894489
- 528486 words of memory out of 5000000
- 30589 multiletter control sequences out of 15000+600000
- 475700 words of font info for 53 fonts, out of 8000000 for 9000
+ 12796 strings out of 480171
+ 200809 string characters out of 5894489
+ 521406 words of memory out of 5000000
+ 30555 multiletter control sequences out of 15000+600000
+ 470270 words of font info for 32 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 70i,12n,76p,1003b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (5 pages, 100347 bytes).
+ 70i,5n,76p,1013b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on list_of_pubs.pdf (1 page, 38266 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 41 named destinations out of 1000 (max. 500000)
+ 42 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,58 @@
+\documentclass[letterpaper,11pt,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{ulem}
+
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumitem}
+\usepackage{amsmath, mathtools}
+\usepackage{datetime}
+\usepackage{natbib}
+\usepackage{bibentry}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+  \graphicspath{ {images/}} %upload your signature to this file
+%Change the margins to fit your CV/resume content
+\usepackage[left=0.8in, right=0.8in, bottom=0.8in, top=0.5in]{geometry}
+
+%Skype information - include your Skype name for a link to add you on Skype
+\newcommand*{\Skype}{\href{skype:john.smith?add}{john.smith}} 
+\newcommand{\Absender}[1][\normalsize]{\Skype} 
+\newcommand{\headr}[1]{\vspace{10pt}\uline{\Large{\textbf{#1}} \hfill } \\ \vspace{-10pt}\\}
+\renewcommand{\refname}{\headr{Publications}\vspace{-1cm}}
+%Changes the page numbers - {arabic}=arabic numerals, {gobble}=no page numbers, {roman}=Roman numerals
+\pagenumbering{gobble}
+
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+
+\bibliographystyle{plain}
+\nobibliography{researchCU.bib}
+
+\headr{Preprints}
+\begin{enumerate}
+\item \bibentry{messenger2022asymptotic}
+\end{enumerate}
+
+\headr{Publications}
+
+\begin{enumerate}
+\item \bibentry{messenger2022learninganisotropic}
+\item \bibentry{messenger_online_2022}
+\item \bibentry{messenger2021learning}
+\item \bibentry{messenger_weak_2021}
+\item \bibentry{messenger_weak_2021-1}
+\item \bibentry{messenger_equilibria_2020}
+\item \bibentry{fetecau2018zero}
+\end{enumerate}
+
+\end{document}
+

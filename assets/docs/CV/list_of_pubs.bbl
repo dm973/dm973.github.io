@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+
+\bibitem{messenger_online_2022}
+Daniel A.~Messenger, Emiliano Dall'Anese, and David Bortz.
+\newblock Online weak-form sparse identification of partial differential
+  equations.
+\newblock In Bin Dong, Qianxiao Li, Lei Wang, and Zhi-Qin~John Xu, editors,
+  {\em Proceedings of Mathematical and Scientific Machine Learning}, volume 190
+  of {\em Proceedings of Machine Learning Research}, pages 241--256. PMLR,
+  15--17 Aug 2022.
+
+\bibitem{fetecau2018zero}
+Razvan~C. Fetecau, Hui Huang, Daniel Messenger, and Weiran Sun.
+\newblock Zero-diffusion limit for aggregation equations over bounded domains.
+\newblock {\em Discrete and Continuous Dynamical Systems}, {Oct.} 2022.
+
+\bibitem{messenger_equilibria_2020}
+Daniel Messenger and Razvan~C. Fetecau.
+\newblock Equilibria of an aggregation model with linear diffusion in domains
+  with boundaries.
+\newblock {\em Mathematical Models and Methods in Applied Sciences},
+  30(04):805--845, April 2020.
+
+\bibitem{messenger_weak_2021}
+Daniel~A. Messenger and David~M. Bortz.
+\newblock Weak {SINDy} {For} {Partial} {Differential} {Equations}.
+\newblock {\em Journal of Computational Physics}, 443:110525, October 2021.
+
+\bibitem{messenger2022asymptotic}
+Daniel~A Messenger and David~M Bortz.
+\newblock Asymptotic consistency of the {WSIND}y algorithm in the limit of
+  continuum data.
+\newblock {\em arXiv preprint arXiv:2211.16000}, 2022.
+
+\bibitem{messenger2021learning}
+Daniel~A. Messenger and David~M. Bortz.
+\newblock Learning mean-field equations from particle data using wsindy.
+\newblock {\em Physica D: Nonlinear Phenomena}, page 133406, {July} 2022.
+
+\bibitem{messenger_weak_2021-1}
+Daniel~A. Messenger and David~M. Bortz.
+\newblock Weak {SINDy}: {Galerkin}-{Based} {Data}-{Driven} {Model} {Selection}.
+\newblock {\em SIAM Multiscale Modeling \& Simulation}, 19(3):1474--1497,
+  {Sept.} 2021.
+
+\bibitem{messenger2022learninganisotropic}
+Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
+\newblock Learning anisotropic interaction rules from individual trajectories
+  in a heterogeneous cellular population.
+\newblock {\em Journal of the Royal Society Interface}, 19, October 2022.
+
+\end{thebibliography}
