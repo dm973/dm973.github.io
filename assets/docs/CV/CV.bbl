@@ -9,6 +9,12 @@ Daniel A.~Messenger, Emiliano Dall'Anese, and David Bortz.
   of {\em Proceedings of Machine Learning Research}, pages 241--256. PMLR,
   15--17 Aug 2022.
 
+\bibitem{bortz2023direct}
+David~M Bortz, Daniel~A Messenger, and Vanja Dukic.
+\newblock Direct estimation of parameters in ode models using wendy: Weak-form
+  estimation of nonlinear dynamics.
+\newblock {\em arXiv preprint arXiv:2302.13271}, 2023.
+
 \bibitem{fetecau2018zero}
 Razvan~C. Fetecau, Hui Huang, Daniel Messenger, and Weiran Sun.
 \newblock Zero-diffusion limit for aggregation equations over bounded domains.
