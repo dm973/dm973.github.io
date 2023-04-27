@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  13 MAR 2023 10:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  27 APR 2023 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV
+**CV.tex
 (./CV.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
@@ -517,11 +517,11 @@ File: fc-english.def 2016/01/12
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(57.81621pt, 498.66258pt, 57.81621pt)
-* v-part:(T,H,B)=(36.135pt, 701.01878pt, 57.81621pt)
+* v-part:(T,H,B)=(36.135pt, 708.24622pt, 50.58878pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=498.66258pt
-* \textheight=701.01878pt
+* \textheight=708.24622pt
 * \oddsidemargin=-14.45378pt
 * \evensidemargin=-14.45378pt
 * \topmargin=-73.135pt
@@ -613,94 +613,95 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.166 \item \textbf
-                   {Data-Driven Model Selection using Weak SINDy}. APPM Recr...
+l.167 \item \textbf
+                   {Data-Driven Model Selection using Weak SINDy}. T-5 Readi...
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.192 \end{enumerate}
-                      [3]
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
-
- []
-
-
-Overfull \hbox (3.86586pt too wide) in paragraph at lines 196--214
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
-
- []
-
-
-Overfull \hbox (18.09224pt too wide) in paragraph at lines 218--231
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
-
- []
-
-
-Overfull \hbox (101.22412pt too wide) in paragraph at lines 234--245
-[][] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.246 \headr{Programming Languages}
+l.194 \item \textbf
+                   {Learning Models from Data: Model Reduction, System Ident...
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+
+Overfull \hbox (3.86586pt too wide) in paragraph at lines 199--217
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Overfull \hbox (18.09224pt too wide) in paragraph at lines 220--233
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+
+Overfull \hbox (101.22412pt too wide) in paragraph at lines 236--247
+[][] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.248 \headr{Programming Languages}
                                     [4]
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.263 \end{document}
+l.265 \end{document}
                      [5] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12883 strings out of 480171
- 201709 string characters out of 5894489
- 528501 words of memory out of 5000000
+ 12886 strings out of 480171
+ 201730 string characters out of 5894489
+ 531501 words of memory out of 5000000
  30594 multiletter control sequences out of 15000+600000
  475700 words of font info for 53 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 70i,12n,76p,999b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,76p,1003b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (5 pages, 100862 bytes).
+Output written on CV.pdf (5 pages, 101756 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
- 45 named destinations out of 1000 (max. 500000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 48 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
