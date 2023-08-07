@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  5 JUL 2023 10:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  7 AUG 2023 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV.tex
+**CV
 (./CV.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
@@ -613,10 +613,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.167 \item \textbf
+l.169 \item \textbf
                    {Online Weak-form Sparse Identification of Partial Differ...
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 179--180
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
@@ -624,34 +624,34 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.189 \newpage
+l.191 \newpage
                [3]
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
 
-Overfull \hbox (3.86586pt too wide) in paragraph at lines 202--220
+Overfull \hbox (3.86586pt too wide) in paragraph at lines 204--222
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
 
-Overfull \hbox (18.09224pt too wide) in paragraph at lines 223--237
+Overfull \hbox (18.09224pt too wide) in paragraph at lines 225--239
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
 
  []
 
@@ -659,15 +659,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.239 
+l.241 
        [4]
-Overfull \hbox (101.22412pt too wide) in paragraph at lines 240--251
+Overfull \hbox (101.22412pt too wide) in paragraph at lines 242--253
 [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-
  []
 
 
@@ -675,33 +670,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--255
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.269 \end{document}
+l.271 \end{document}
                      [5] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12889 strings out of 480171
- 201761 string characters out of 5894489
+ 12890 strings out of 480171
+ 201768 string characters out of 5894489
  531501 words of memory out of 5000000
  30595 multiletter control sequences out of 15000+600000
  476046 words of font info for 54 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 70i,12n,76p,1003b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,76p,999b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (5 pages, 113681 bytes).
+Output written on CV.pdf (5 pages, 113451 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 50 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
