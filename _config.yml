@@ -31,6 +31,7 @@ include:
   - _posts
   - about.md
   - index.md
+  - research.md
 
 # settings for author profile
 author:
