@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{messenger_online_2022}
 Daniel A.~Messenger, Emiliano Dall'Anese, and David Bortz.
@@ -11,8 +11,8 @@ Daniel A.~Messenger, Emiliano Dall'Anese, and David Bortz.
 
 \bibitem{bortz2023direct}
 David~M Bortz, Daniel~A Messenger, and Vanja Dukic.
-\newblock Direct estimation of parameters in ode models using wendy: Weak-form
-  estimation of nonlinear dynamics.
+\newblock Direct estimation of parameters in {ODE} models using {WEND}y:
+  Weak-form estimation of nonlinear dynamics.
 \newblock {\em arXiv preprint arXiv:2302.13271 (\textit{In revisions at BMB})},
   2023.
 
@@ -41,7 +41,7 @@ Daniel~A Messenger and David~M Bortz.
 
 \bibitem{messenger2021learning}
 Daniel~A. Messenger and David~M. Bortz.
-\newblock Learning mean-field equations from particle data using wsindy.
+\newblock Learning mean-field equations from particle data using {WSIND}y.
 \newblock {\em Physica D: Nonlinear Phenomena}, page 133406, {July} 2022.
 
 \bibitem{messenger_weak_2021-1}
@@ -50,10 +50,20 @@ Daniel~A. Messenger and David~M. Bortz.
 \newblock {\em SIAM Multiscale Modeling \& Simulation}, 19(3):1474--1497,
   {Sept.} 2021.
 
+\bibitem{messenger2023coarse}
+Daniel~A Messenger, Joshua~W Burby, and David~M Bortz.
+\newblock Coarse graining hamiltonian systems using {WSIND}y.
+\newblock {\em {\it (In preparation)}}, 2023.
+
 \bibitem{messenger2022learninganisotropic}
 Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
 \newblock Learning anisotropic interaction rules from individual trajectories
   in a heterogeneous cellular population.
 \newblock {\em Journal of the Royal Society Interface}, 19, October 2022.
+
+\bibitem{tran2023weakform}
+Chi Tran, He~Xiaolong, Daniel Messenger, Youngsoo Choi, and David Bortz.
+\newblock Weak-form greedy and non-greedy latent space dynamics identification.
+\newblock {\em {\it (In preparation)}}, 2023.
 
 \end{thebibliography}
