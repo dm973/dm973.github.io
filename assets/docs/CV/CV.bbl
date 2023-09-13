@@ -66,4 +66,10 @@ Chi Tran, He~Xiaolong, Daniel Messenger, Youngsoo Choi, and David Bortz.
 \newblock Weak-form greedy and non-greedy latent space dynamics identification.
 \newblock {\em {\it (In preparation)}}, 2023.
 
+\bibitem{vasey2023influence}
+Gina Vasey, Daniel Messenger, David Bortz, Andrew Christlieb, and Brian O'Shea.
+\newblock Influence of initial conditions on data-driven model identification
+  and information entropy for ideal {MHD} problems.
+\newblock {\em {\it (In preparation)}}, 2023.
+
 \end{thebibliography}

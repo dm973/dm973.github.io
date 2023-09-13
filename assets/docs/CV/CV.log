@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  12 SEP 2023 08:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  12 SEP 2023 09:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -582,118 +582,83 @@ Overfull \hbox (30.77136pt too wide) in paragraph at lines 78--104
 [][] 
  []
 
-(./CV.bbl)
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
-
- []
-
-[1
+(./CV.bbl) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 121--123
-
- []
-
-
-Overfull \hbox (6.8253pt too wide) in paragraph at lines 123--124
+Overfull \hbox (6.8253pt too wide) in paragraph at lines 124--125
 \OT1/cmr/m/n/10.95 mod-els us-ing WENDy: Weak-form es-ti-ma-tion of non-lin-ear
  dy-nam-ics.  |   []   |   []   |   []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
-
- []
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.174 \item \textbf
+l.178 \item \textbf
                    {Weak-form System Identification: Computational Efficienc...
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 191--192
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+[2]pdfTeX warning (ext4): destination with the same identifier (name{page.}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.196 \item \textbf
+l.201 \item \textbf
                    {Interacting Particle Systems: Numerics for the Zero-Diff...
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--212
-
- []
-
-
-Overfull \hbox (3.86586pt too wide) in paragraph at lines 213--231
+Overfull \hbox (30.77136pt too wide) in paragraph at lines 220--239
 [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+Overfull \hbox (101.22412pt too wide) in paragraph at lines 244--256
+[][] 
+ []
+
+
+Overfull \hbox (1.09224pt too wide) in paragraph at lines 258--273
+[] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.231 \newpage
-               [4]
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
-
- []
-
-
-Overfull \hbox (18.09224pt too wide) in paragraph at lines 234--248
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
-
- []
-
-
-Overfull \hbox (101.22412pt too wide) in paragraph at lines 251--262
-[][] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+l.273 
+       [4]pdfTeX warning (ext4): destination with the same identifier (name{pag
+e.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.280 \end{document}
+l.292 \end{document}
                      [5] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12906 strings out of 480171
- 202053 string characters out of 5894489
- 534533 words of memory out of 5000000
- 30603 multiletter control sequences out of 15000+600000
+ 12912 strings out of 480171
+ 202184 string characters out of 5894489
+ 535549 words of memory out of 5000000
+ 30607 multiletter control sequences out of 15000+600000
  476046 words of font info for 54 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 70i,12n,76p,999b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,76p,999b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (5 pages, 114401 bytes).
+Output written on CV.pdf (5 pages, 114796 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 500000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
+ 60 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
