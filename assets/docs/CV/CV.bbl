@@ -12,7 +12,7 @@ Daniel A.~Messenger, Emiliano Dall'Anese, and David Bortz.
 David~M Bortz, Daniel~A Messenger, and Vanja Dukic.
 \newblock Direct estimation of parameters in {ODE} models using {WEND}y:
   Weak-form estimation of nonlinear dynamics.
-\newblock {\em Bulletin of Math. Bio. (accepted Aug.)}, 2023.
+\newblock {\em Bulletin of Math. Bio.}, 80, October 2023.
 
 \bibitem{fetecau2018zero}
 Razvan~C. Fetecau, Hui Huang, Daniel Messenger, and Weiran Sun.
@@ -50,8 +50,8 @@ Daniel~A. Messenger and David~M. Bortz.
 
 \bibitem{messenger2023coarse}
 Daniel~A Messenger, Joshua~W Burby, and David~M Bortz.
-\newblock Coarse graining hamiltonian systems using {WSIND}y.
-\newblock {\em {\it (In preparation)}}, 2023.
+\newblock Coarse-graining {H}amiltonian systems using {WSIND}y.
+\newblock {\em {\it (In review)} arXiv preprint arXiv:2310.05879}, 2023.
 
 \bibitem{messenger2022learninganisotropic}
 Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
