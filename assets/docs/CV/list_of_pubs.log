@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.30)  5 FEB 2023 20:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.31)  17 DEC 2023 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -436,6 +436,19 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen177
 \Gm@dimlist=\toks38
 )
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip66
+\f@nch@O@elh=\skip67
+\f@nch@O@erh=\skip68
+\f@nch@O@olh=\skip69
+\f@nch@O@orh=\skip70
+\f@nch@O@elf=\skip71
+\f@nch@O@erf=\skip72
+\f@nch@O@olf=\skip73
+\f@nch@O@orf=\skip74
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count319
@@ -543,75 +556,51 @@ File: fc-english.def 2016/01/12
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 37.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 38.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 39.
+
 (./list_of_pubs.bbl)
-Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
- []
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-Package natbib Warning: Citation `messenger2022asymptotic' undefined on input l
-ine 42.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
- []
-
-
-Package natbib Warning: Citation `messenger2022learninganisotropic' undefined o
-n input line 48.
-
-
-Package natbib Warning: Citation `messenger_online_2022' undefined on input lin
-e 49.
-
-
-Package natbib Warning: Citation `messenger2021learning' undefined on input lin
-e 50.
-
-
-Package natbib Warning: Citation `messenger_weak_2021' undefined on input line 
-51.
-
-
-Package natbib Warning: Citation `messenger_weak_2021-1' undefined on input lin
-e 52.
-
-
-Package natbib Warning: Citation `messenger_equilibria_2020' undefined on input
- line 53.
-
-
-Package natbib Warning: Citation `fetecau2018zero' undefined on input line 54.
-
-
-Package natbib Warning: There were undefined citations.
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./list_of_pubs.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+] (./list_of_pubs.aux)
 Package rerunfilecheck Info: File `list_of_pubs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12796 strings out of 480171
- 200809 string characters out of 5894489
- 521406 words of memory out of 5000000
- 30555 multiletter control sequences out of 15000+600000
- 470270 words of font info for 32 fonts, out of 8000000 for 9000
- 59 hyphenation exceptions out of 8191
- 70i,5n,76p,1013b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on list_of_pubs.pdf (1 page, 38266 bytes).
+ 13003 strings out of 478287
+ 203945 string characters out of 5849288
+ 535162 words of memory out of 5000000
+ 30995 multiletter control sequences out of 15000+600000
+ 471265 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,11n,76p,1013b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfrm1095.pfb>
+Output written on list_of_pubs.pdf (1 page, 69912 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
+ 63 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

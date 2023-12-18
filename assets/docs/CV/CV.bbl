@@ -4,9 +4,7 @@
 Daniel A.~Messenger, Emiliano Dall'Anese, and David Bortz.
 \newblock Online weak-form sparse identification of partial differential
   equations.
-\newblock In Bin Dong, Qianxiao Li, Lei Wang, and Zhi-Qin~John Xu, editors,
-  {\em Proceedings of Math. and Sci. ML}, volume 190 of {\em PMLR}, pages
-  241--256. PMLR, 15--17 Aug 2022.
+\newblock In {\em PMLR}, 15--17 Aug 2022.
 
 \bibitem{bortz2023direct}
 David~M Bortz, Daniel~A Messenger, and Vanja Dukic.
@@ -58,5 +56,16 @@ Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
 \newblock Learning anisotropic interaction rules from individual trajectories
   in a heterogeneous cellular population.
 \newblock {\em Journal of the Royal Society Interface}, 19, October 2022.
+
+\bibitem{tran2023weakform}
+April Tran, Xiaolong He, Daniel Messenger, Youngsoo Choi, and David~M Bortz.
+\newblock Weak-form latent space dynamics identification.
+\newblock {\em {\it (In review)} arXiv preprint arXiv:2311.12880}, 2023.
+
+\bibitem{vasey2023influence}
+Gina Vasey, Daniel Messenger, David Bortz, Andrew Christlieb, and Brian O'Shea.
+\newblock Influence of initial conditions on data-driven model identification
+  and information entropy for ideal mhd problems.
+\newblock {\em {\it (In review)} arXiv preprint arXiv:2312.05339}, 2023.
 
 \end{thebibliography}

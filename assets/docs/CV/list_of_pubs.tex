@@ -30,28 +30,34 @@
 \pagenumbering{gobble}
 
 %%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%%%%%%
-
+\usepackage{fancyhdr}
 \begin{document}
 
+\pagestyle{fancy}
+\fancyhead[LO,LE]{Publication list}
+\fancyhead[CO,CE]{\textbf{Daniel Messenger}}
+\fancyhead[RO,RE]{\monthyeardate\today}
 
 \bibliographystyle{plain}
 \nobibliography{researchCU.bib}
 
-\headr{Preprints}
-\begin{enumerate}
-\item \bibentry{messenger2022asymptotic}
-\end{enumerate}
-
 \headr{Publications}
-
+\vspace{-0.5cm}
+\begin{itemize}
+\item \bibentry{messenger2023coarse}
+\item \bibentry{tran2023weakform}
+\item \bibentry{vasey2023influence}
+\item \bibentry{messenger2022asymptotic}
+\end{itemize}
 \begin{enumerate}
+\item \bibentry{bortz2023direct}
 \item \bibentry{messenger2022learninganisotropic}
+\item \bibentry{fetecau2018zero}
 \item \bibentry{messenger_online_2022}
 \item \bibentry{messenger2021learning}
 \item \bibentry{messenger_weak_2021}
 \item \bibentry{messenger_weak_2021-1}
 \item \bibentry{messenger_equilibria_2020}
-\item \bibentry{fetecau2018zero}
 \end{enumerate}
 
 \end{document}

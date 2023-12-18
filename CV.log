@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.31)  17 DEC 2023 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.31)  6 NOV 2023 10:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CV
-(./CV.tex
+**assets/docs/CV/CV.tex
+(./assets/docs/CV/CV.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -441,7 +441,7 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count319
 \l__pdf_internal_box=\box59
 )
-(./CV.aux)
+No file CV.aux.
 \openout1 = `CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -463,7 +463,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 Package hyperref Info: Link coloring OFF on input line 34.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -477,8 +477,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
-
-(./CV.out) (./CV.out)
 \@outlinefile=\write3
 \openout3 = `CV.out'.
 
@@ -516,14 +514,14 @@ File: fc-english.def 2016/01/12
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* h-part:(L,W,R)=(57.81621pt, 498.66258pt, 57.81621pt)
 * v-part:(T,H,B)=(36.135pt, 708.24622pt, 50.58878pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75502pt
+* \textwidth=498.66258pt
 * \textheight=708.24622pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
 * \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -541,11 +539,6 @@ File: fc-english.def 2016/01/12
 * \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
-Overfull \hbox (15.45305pt too wide) in paragraph at lines 38--47
-\OT1/cmr/bx/n/17.28 Daniel Ames Mes-sen-ger   De-cem-ber, 2023 
- []
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
 
@@ -568,7 +561,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
  []
 
 
-Overfull \hbox (59.67892pt too wide) in paragraph at lines 64--69
+Overfull \hbox (30.77136pt too wide) in paragraph at lines 64--69
 [][] 
  []
 
@@ -578,101 +571,127 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
  []
 
 
-Overfull \hbox (116.58444pt too wide) in paragraph at lines 78--95
+Overfull \hbox (87.67688pt too wide) in paragraph at lines 78--95
 [][] 
  []
 
-(./CV.bbl) [1
+No file CV.bbl.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Package natbib Warning: Citation `messenger2023coarse' undefined on input line 
+103.
+
+
+Package natbib Warning: Citation `messenger2022asymptotic' undefined on input l
+ine 104.
+
+
+Package natbib Warning: Citation `bortz2023direct' undefined on input line 107.
+
+
+
+Package natbib Warning: Citation `messenger2022learninganisotropic' undefined o
+n input line 108.
+
+
+Package natbib Warning: Citation `messenger_online_2022' undefined on input lin
+e 109.
+
+
+Package natbib Warning: Citation `messenger2021learning' undefined on input lin
+e 110.
+
+
+Package natbib Warning: Citation `fetecau2018zero' undefined on input line 111.
+
+
+
+Package natbib Warning: Citation `messenger_weak_2021' undefined on input line 
+112.
+
+
+Package natbib Warning: Citation `messenger_weak_2021-1' undefined on input lin
+e 113.
+
+
+Package natbib Warning: Citation `messenger_equilibria_2020' undefined on input
+ line 114.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Overfull \hbox (130.13168pt too wide) in paragraph at lines 130--142
+Overfull \hbox (101.22412pt too wide) in paragraph at lines 128--140
 [][] 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): dest
+ination with the same identifier (name{page.}) has been already used, duplicate
+ ignored
 <to be read again> 
                    \relax 
-l.193 \item (
-             Invited) \textbf{Towards recovery guarantees and statistical ef...
-[2]
-Overfull \hbox (5.9464pt too wide) in paragraph at lines 203--204
-[]\OT1/cmr/m/n/10.95 (Contributed) \OT1/cmr/bx/n/10.95 Aggregation-Diffusion Ph
-e-nom-ena in Do-mains with Bound-aries\OT1/cmr/m/n/10.95 . SIAM
- []
-
-
-Overfull \hbox (6.25055pt too wide) in paragraph at lines 205--206
-[]\OT1/cmr/m/n/10.95 (Contributed) \OT1/cmr/bx/n/10.95 Aggregation-Diffusion Ph
-e-nom-ena in Do-mains with Bound-aries\OT1/cmr/m/n/10.95 . Cana-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.215 \item (
+l.198 \item (
              Invited) \textbf{Data-Driven Model Selection using Weak SINDy}....
-[3]
-Overfull \hbox (10.23138pt too wide) in paragraph at lines 219--220
-[]\OT1/cmr/m/n/10.95 (Contributed) \OT1/cmr/bx/n/10.95 Ran-dom In-ter-act-ing P
-ar-ti-cle Sys-tems: Nu-mer-ics for the Zero-Diffusion
+[2]pdfTeX warning (ext4): destination with the same identifier (name{page.}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.218 \newpage
+               [3]
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-
-Overfull \hbox (59.67892pt too wide) in paragraph at lines 237--256
+Overfull \hbox (30.77136pt too wide) in paragraph at lines 232--251
 [][] 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.258 \newpage
-               [4]
-Overfull \hbox (29.9998pt too wide) in paragraph at lines 259--274
+
+Overfull \hbox (1.09224pt too wide) in paragraph at lines 254--269
 [] 
  []
 
+
+Package natbib Warning: There were undefined citations.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.293 \end{document}
-                     [5] (./CV.aux)
-Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+l.288 \end{document}
+                     [4] (./CV.aux)
+
+Package rerunfilecheck Warning: File `CV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CV.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12933 strings out of 478287
- 202407 string characters out of 5849288
- 540330 words of memory out of 5000000
- 30864 multiletter control sequences out of 15000+600000
- 478744 words of font info for 65 fonts, out of 8000000 for 9000
+ 12864 strings out of 478287
+ 201089 string characters out of 5849288
+ 537107 words of memory out of 5000000
+ 30815 multiletter control sequences out of 15000+600000
+ 476349 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,76p,999b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,76p,1018b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmtt9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on CV.pdf (5 pages, 133766 bytes).
+ublic/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
+1095.pfb>
+Output written on CV.pdf (4 pages, 106803 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 60 named destinations out of 1000 (max. 500000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 55 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
