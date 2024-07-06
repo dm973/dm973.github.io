@@ -6,16 +6,37 @@ Daniel A.~Messenger, Emiliano Dall'Anese, and David Bortz.
   equations.
 \newblock In {\em PMLR}, 15--17 Aug 2022.
 
+\bibitem{bonneville2024comprehensive}
+Christophe Bonneville, Xiaolong He, April Tran, Jun~Sur Park, William Fries,
+  Daniel~A Messenger, Siu~Wun Cheung, Yeonjong Shin, David~M Bortz, Debojyoti
+  Ghosh, et~al.
+\newblock A comprehensive review of latent space dynamics identification
+  algorithms for intrusive and non-intrusive reduced-order-modeling.
+\newblock {\em ({\it In review}) arXiv preprint arXiv:2403.10748}, 2024.
+
 \bibitem{bortz2023direct}
 David~M Bortz, Daniel~A Messenger, and Vanja Dukic.
 \newblock Direct estimation of parameters in {ODE} models using {WEND}y:
   Weak-form estimation of nonlinear dynamics.
 \newblock {\em Bulletin of Math. Bio.}, 80, October 2023.
 
+\bibitem{BortzMessengerTran2024NumericalAnalysisMeetsMachineLearning}
+David~M. Bortz, Daniel~A. Messenger, and April Tran.
+\newblock Weak form-based data-driven modeling: {{Computationally Efficient}}
+  and {{Noise Robust Equation Learning}} and {{Parameter Inference}}.
+\newblock In Siddhartha Mishra and Alex Townsend, editors, {\em Numerical
+  {{Analysis Meets Machine Learning}}}, volume~25 of {\em Handbook of
+  {{Numerical Analysis}}}, pages 54--82. Elsevier, 2024.
+
 \bibitem{fetecau2018zero}
 Razvan~C. Fetecau, Hui Huang, Daniel Messenger, and Weiran Sun.
 \newblock Zero-diffusion limit for aggregation equations over bounded domains.
 \newblock {\em Discrete \& Continuous Dynamical Systems}, {Oct.} 2022.
+
+\bibitem{messenger2024weakeco}
+Daniel Messenger, Greg Dwyer, and Vanja Dukic.
+\newblock Weak-form inference for hybrid dynamical systems in ecology.
+\newblock {\em ({\it In review}) arXiv preprint arXiv:2405.20591}, 2024.
 
 \bibitem{messenger_equilibria_2020}
 Daniel Messenger and Razvan~C. Fetecau.
@@ -33,7 +54,7 @@ Daniel~A. Messenger and David~M. Bortz.
 Daniel~A Messenger and David~M Bortz.
 \newblock Asymptotic consistency of the {WSIND}y algorithm in the limit of
   continuum data.
-\newblock {\em {\it (In revisions)} arXiv preprint arXiv:2211.16000}, 2022.
+\newblock {\em {\it (Accepted)} arXiv preprint arXiv:2211.16000}, 2022.
 
 \bibitem{messenger2021learning}
 Daniel~A. Messenger and David~M. Bortz.
@@ -46,10 +67,10 @@ Daniel~A. Messenger and David~M. Bortz.
 \newblock {\em SIAM Multiscale Modeling \& Simulation}, 19(3):1474--1497,
   {Sept.} 2021.
 
-\bibitem{messenger2023coarse}
+\bibitem{messenger2024coarse}
 Daniel~A Messenger, Joshua~W Burby, and David~M Bortz.
-\newblock Coarse-graining {H}amiltonian systems using {WSIND}y.
-\newblock {\em {\it (In review)} arXiv preprint arXiv:2310.05879}, 2023.
+\newblock Coarse-graining hamiltonian systems using wsindy.
+\newblock {\em Scientific Reports}, 14(1):14457, 2024.
 
 \bibitem{messenger2022learninganisotropic}
 Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
@@ -57,15 +78,22 @@ Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
   in a heterogeneous cellular population.
 \newblock {\em Journal of the Royal Society Interface}, 19, October 2022.
 
-\bibitem{tran2023weakform}
-April Tran, Xiaolong He, Daniel Messenger, Youngsoo Choi, and David~M Bortz.
+\bibitem{tran2024weak}
+April Tran, Xiaolong He, Daniel~A Messenger, Youngsoo Choi, and David~M Bortz.
 \newblock Weak-form latent space dynamics identification.
-\newblock {\em {\it (In review)} arXiv preprint arXiv:2311.12880}, 2023.
+\newblock {\em Computer Methods in Applied Mechanics and Engineering},
+  427:116998, 2024.
 
 \bibitem{vasey2023influence}
 Gina Vasey, Daniel Messenger, David Bortz, Andrew Christlieb, and Brian O'Shea.
 \newblock Influence of initial conditions on data-driven model identification
   and information entropy for ideal mhd problems.
 \newblock {\em {\it (In review)} arXiv preprint arXiv:2312.05339}, 2023.
+
+\bibitem{wang2024physics}
+Reuben~RW Wang and Daniel Messenger.
+\newblock Physics-guided weak-form discovery of reduced-order models for
+  trapped ultracold hydrodynamics.
+\newblock {\em ({\it In review}) arXiv preprint arXiv:2406.07519}, 2024.
 
 \end{thebibliography}
