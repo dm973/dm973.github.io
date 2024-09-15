@@ -36,7 +36,7 @@ Razvan~C. Fetecau, Hui Huang, Daniel Messenger, and Weiran Sun.
 \bibitem{messenger2024weakeco}
 Daniel Messenger, Greg Dwyer, and Vanja Dukic.
 \newblock Weak-form inference for hybrid dynamical systems in ecology.
-\newblock {\em ({\it In revision}) arXiv preprint arXiv:2405.20591}, 2024.
+\newblock {\em ({\it Accepted}) arXiv preprint arXiv:2405.20591}, 2024.
 
 \bibitem{messenger_equilibria_2020}
 Daniel Messenger and Razvan~C. Fetecau.
@@ -72,6 +72,11 @@ Daniel~A Messenger, Joshua~W Burby, and David~M Bortz.
 \newblock Coarse-graining {H}amiltonian systems using {WSIND}y.
 \newblock {\em Scientific Reports}, 14(1):14457, 2024.
 
+\bibitem{messenger2024weak}
+Daniel~A Messenger, April Tran, Vanja Dukic, and David~M Bortz.
+\newblock The weak form is stronger than you think.
+\newblock {\em {\it (Accepted)} arXiv preprint arXiv:2409.06751}, 2024.
+
 \bibitem{messenger2022learninganisotropic}
 Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
 \newblock Learning anisotropic interaction rules from individual trajectories
@@ -88,7 +93,7 @@ April Tran, Xiaolong He, Daniel~A Messenger, Youngsoo Choi, and David~M Bortz.
 Gina Vasey, Daniel Messenger, David Bortz, Andrew Christlieb, and Brian O'Shea.
 \newblock Influence of initial conditions on data-driven model identification
   and information entropy for ideal mhd problems.
-\newblock {\em {\it (In review)} arXiv preprint arXiv:2312.05339}, 2023.
+\newblock {\em {\it (In revision)} arXiv preprint arXiv:2312.05339}, 2023.
 
 \bibitem{wang2024physics}
 Reuben~RW Wang and Daniel Messenger.
