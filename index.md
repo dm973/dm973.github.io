@@ -7,8 +7,8 @@ title: About
 permalink: /
 ---
 
-I am currently a research associate in Dr. Bortz' lab at the University of Colorado Boulder. I work at the intersection of dynamical systems, data science, and mathematical biology. My main interests include algorithms for data-driven modeling, and the analysis and simulation of complex phenomena across multiple scales, from particle to continuum descriptions.
+I am a Director's Postdoctoral Fellow in the T-5 Division (Theoretical Physics and Applied Mathematics) at Los Alamos National Labs. I work at the intersection of physical applied math and scientific machine learning. My main interests include algorithms for data-driven modeling and the analysis and simulation of multiscale phenomena.
 
-Apart from research, I am passionate about teaching mathematics, and I enjoy playing music, cooking, biking, snowboarding, and generally being out in the wilderness.
+Apart from research, I enjoy playing music, cooking, biking, snowboarding, and generally being out in the wilderness.
 
 Please check out my [CV](/assets/docs/CV/CV.pdf) and contact me if you're interested collaborating.
