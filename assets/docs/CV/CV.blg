@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: CV.aux
 The style file: plain.bst
 Database file #1: researchCU.bib
-You've used 17 entries,
+You've used 19 entries,
             2118 wiz_defined-function locations,
-            592 strings with 7738 characters,
-and the built_in function-call counts, 5750 in all, are:
-= -- 536
-> -- 359
+            606 strings with 8158 characters,
+and the built_in function-call counts, 6441 in all, are:
+= -- 600
+> -- 405
 < -- 3
-+ -- 141
-- -- 122
-* -- 418
-:= -- 1016
-add.period$ -- 52
-call.type$ -- 17
-change.case$ -- 110
++ -- 160
+- -- 138
+* -- 474
+:= -- 1140
+add.period$ -- 59
+call.type$ -- 19
+change.case$ -- 124
 chr.to.int$ -- 0
-cite$ -- 17
-duplicate$ -- 206
-empty$ -- 379
-format.name$ -- 122
-if$ -- 1155
+cite$ -- 19
+duplicate$ -- 227
+empty$ -- 422
+format.name$ -- 138
+if$ -- 1291
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 17
-newline$ -- 88
-num.names$ -- 36
-pop$ -- 103
+int.to.str$ -- 19
+missing$ -- 19
+newline$ -- 99
+num.names$ -- 40
+pop$ -- 114
 preamble$ -- 1
-purify$ -- 93
+purify$ -- 105
 quote$ -- 0
-skip$ -- 153
+skip$ -- 167
 stack$ -- 0
-substring$ -- 230
-swap$ -- 40
+substring$ -- 259
+swap$ -- 42
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 68
+type$ -- 76
 warning$ -- 0
-while$ -- 46
-width$ -- 19
-write$ -- 183
+while$ -- 51
+width$ -- 21
+write$ -- 206
