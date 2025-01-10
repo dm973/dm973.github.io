@@ -7,7 +7,7 @@ title: About
 permalink: /
 ---
 
-I am a Director's Postdoctoral Fellow in the T-5 Division (Theoretical Physics and Applied Mathematics) at Los Alamos National Labs. I work at the intersection of physical applied math and scientific machine learning. My main interests include algorithms for data-driven modeling and the analysis and simulation of multiscale phenomena.
+I am a Director's Postdoctoral Fellow in the T-5 Division (Applied Mathematics and Plasma Physics) at Los Alamos National Labs. I work at the intersection of physical applied math and scientific machine learning. My main interests include algorithms for data-driven modeling and the analysis and simulation of multiscale phenomena.
 
 Apart from research, I enjoy playing music, cooking, biking, snowboarding, and generally being out in the wilderness.
 

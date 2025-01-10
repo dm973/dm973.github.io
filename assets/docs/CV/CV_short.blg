@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: CV_short.aux
+The style file: plain.bst
+Database file #1: bib_short.bib
+Warning--empty publisher in BortzMessengerTran2024NumericalAnalysisMeetsMachineLearning
+You've used 19 entries,
+            2118 wiz_defined-function locations,
+            605 strings with 6644 characters,
+and the built_in function-call counts, 6266 in all, are:
+= -- 580
+> -- 397
+< -- 2
++ -- 157
+- -- 136
+* -- 466
+:= -- 1117
+add.period$ -- 59
+call.type$ -- 19
+change.case$ -- 124
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 220
+empty$ -- 412
+format.name$ -- 136
+if$ -- 1248
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 19
+newline$ -- 99
+num.names$ -- 38
+pop$ -- 114
+preamble$ -- 1
+purify$ -- 105
+quote$ -- 0
+skip$ -- 157
+stack$ -- 0
+substring$ -- 234
+swap$ -- 35
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 76
+warning$ -- 1
+while$ -- 47
+width$ -- 21
+write$ -- 205
+(There was 1 warning)

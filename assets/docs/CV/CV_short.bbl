@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+
+\bibitem{tran2024weak}
+AT, XH, DAM, YC, and DMB.
+\newblock Weak-form latent space dynamics identification.
+\newblock {\em CMAME}, 427:116998, 2024.
+
+\bibitem{RUSSO202497}
+BPR, DAM, DMB, and JAR.
+\newblock Weighted composition operators for learning nonlinear dynamics.
+\newblock {\em IFAC}, 58(17):97--102, 2024.
+\newblock MTNS 2024.
+
+\bibitem{bonneville2024comprehensive}
+CB, XH, AT, JSR, WF, DAM, SWC, SY, DMB, DG, et~al.
+\newblock A comprehensive review of latent space dynamics identification
+  algorithms.
+\newblock {\em arXiv:2403.10748}, 2024.
+
+\bibitem{messenger_weak_2021}
+DAM and DMB.
+\newblock Weak {SINDy} {For} {Partial} {Differential} {Equations}.
+\newblock {\em JCP}, 443:110525, October 2021.
+
+\bibitem{messenger2024asymptotic}
+DAM and DMB.
+\newblock Asymptotic consistency of the {WSIND}y algorithm in the limit of
+  continuum data.
+\newblock {\em IMA-JNA}, Dec. 2024.
+
+\bibitem{messenger2021learning}
+DAM and DMB.
+\newblock Learning mean-field equations from particle data using {WSIND}y.
+\newblock {\em Phys. D}, page 133406, {July} 2022.
+
+\bibitem{messenger_weak_2021-1}
+DAM and DMB.
+\newblock Weak {SINDy}: {Galerkin}-{Based} {Data}-{Driven} {Model} {Selection}.
+\newblock {\em SIAM MMS}, 19(3):1474--1497, {Sept.} 2021.
+
+\bibitem{messenger_online_2022}
+DAM, EDA, and DMB.
+\newblock Online weak-form sparse identification of partial differential
+  equations.
+\newblock In {\em PMLR}, 15--17 Aug 2022.
+
+\bibitem{messenger2024weakeco}
+DAM, GD, and VD.
+\newblock Weak-form inference for hybrid dynamical systems in ecology.
+\newblock {\em JRSI}, 21(221), 2024.
+
+\bibitem{messenger2022learninganisotropic}
+DAM, GEW, XL, and DMB.
+\newblock Learning anisotropic interaction rules from individual trajectories
+  in a heterogeneous cellular population.
+\newblock {\em JRSI}, 19, October 2022.
+
+\bibitem{messenger2024coarse}
+DAM, JWB, and DMB.
+\newblock Coarse-graining {H}amiltonian systems using {WSIND}y.
+\newblock {\em Sci. Rep.}, 14(1):14457, 2024.
+
+\bibitem{messenger_equilibria_2020}
+DAM and RCF.
+\newblock Equilibria of an aggregation model with linear diffusion in domains
+  with boundaries.
+\newblock {\em M3AS}, 30(04):805--845, April 2020.
+
+\bibitem{BortzMessengerTran2024NumericalAnalysisMeetsMachineLearning}
+DMB, DAM, and AT.
+\newblock Weak form-based data-driven modeling.
+\newblock In {\em Numerical Analysis Meets Machine Learning}, volume~25 of {\em
+  Handbook of {{Numerical Analysis}}}. 2024.
+
+\bibitem{bortz2023direct}
+DMB, DAM, and VD.
+\newblock Direct estimation of parameters in {ODE} models using {WEND}y:
+  Weak-form estimation of nonlinear dynamics.
+\newblock {\em Bulletin of Math. Bio.}, 80, October 2023.
+
+\bibitem{vasey2023influence}
+GV, DAM, DMB, AC, and BOS.
+\newblock Influence of initial conditions on data-driven model identification
+  and information entropy for ideal {MHD} problems.
+\newblock {\em JCP}, 2025.
+
+\bibitem{burby2024non}
+JW, IAM, MR, and DAM.
+\newblock The non-perturbative adiabatic invariant is all you need.
+\newblock {\em arXiv:2410.02175}, 2024.
+
+\bibitem{fetecau2018zero}
+RCF, HH, DAM, and WS.
+\newblock Zero-diffusion limit for aggregation equations over bounded domains.
+\newblock {\em DCDS}, {Oct.} 2022.
+
+\bibitem{wang2024physics}
+RRWW and DAM.
+\newblock Physics-guided weak-form discovery of reduced-order models for
+  trapped ultracold hydrodynamics.
+\newblock {\em arXiv:2406.07519}, 2024.
+
+\bibitem{minor2025learning}
+SM, DAM, VD, and DMB.
+\newblock Learning weather models from data with {WSIND}y.
+\newblock {\em arXiv:2501.00738}, 2025.
+
+\end{thebibliography}

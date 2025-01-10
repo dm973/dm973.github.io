@@ -19,12 +19,12 @@
   \monthname[\THEMONTH], \THEYEAR}
   \graphicspath{ {images/}} %upload your signature to this file
 %Change the margins to fit your CV/resume content
-\usepackage[left=1in, right=1in, bottom=0.7in, top=0.5in]{geometry}
+\usepackage[left=0.5in, right=0.5in, bottom=0.5in, top=0.5in]{geometry}
 
 %Skype information - include your Skype name for a link to add you on Skype
 \newcommand*{\Skype}{\href{skype:john.smith?add}{john.smith}} 
 \newcommand{\Absender}[1][\normalsize]{\Skype} 
-\newcommand{\headr}[1]{\vspace{10pt}\uline{\Large{\textbf{#1}} \hfill } \\ \vspace{-10pt}\\}
+\newcommand{\headr}[1]{\uline{\Large{\textbf{#1}} \hfill } \\ \vspace{-0.5cm}}
 \renewcommand{\refname}{\headr{Publications}\vspace{-1cm}}
 %Changes the page numbers - {arabic}=arabic numerals, {gobble}=no page numbers, {roman}=Roman numerals
 \pagenumbering{gobble}
@@ -35,37 +35,30 @@
 
 %%%%%%%%%%%%%%%%% NAME OF APPLICANT %%%%%%%%%%%%%%%%%%%
 %
-\noindent 
-\LARGE{\textbf{Daniel Ames Messenger} \hspace{1.7in} \textbf{\monthyeardate\today}} 
-%\vspace{-2ex}
+\indent\vspace{0.2cm}\LARGE{\textbf{Daniel Ames Messenger} \hfill \textbf{\monthyeardate\today}} \\ %\vspace{-2ex}
 %\hline 
 \normalsize
 %
 %%%%%%%%%%%%%%%%% CONTACT INFORMATION %%%%%%%%%%%%%%%%%
 % Your email address, website, and Skype name are links to send email, open your website and add you on Skype. 
 %
-\begin{center}
-\begin{tabular}{@{} p{0.01cm} @{} p{10cm} @{} p{6.5cm}@{} }
-& Director's Postdoctoral Fellow, T-5 Division & \hspace{0.5in} \href{mailto:daniel.messenger@colorado.edu}{daniel.messenger@colorado.edu} \\
-& Los Alamos National Laboratory    & \hspace{3.2cm}   \\
-\end{tabular}\\ \vspace{0.25cm}
-\begin{tabular}{@{} p{0.01cm} @{} p{16.5cm}@{} }
-& Personal wesbite: \url{https://dm973.github.io} \hspace{2cm} Github: \url{https://github.com/dm973} \\
-& Google Scholar: \url{https://scholar.google.com/citations?user=bg1DXK0AAAAJ}
-\end{tabular}
-\end{center}
+\indent Director's Postdoctoral Fellow
+\hfill \href{mailto:daniel.messenger@colorado.edu}{daniel.messenger@colorado.edu} \\
+\indent Theoretical Division, Los Alamos National Laboratory \hfill  \url{https://dm973.github.io} \\
 
 %%%%%%%%%%%%%%%%% MAIN BODY %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The main body is contained in a tabular environment. To move sections onto the next page, simply end the tabular environment and begin a new tabular environment.
 %\vspace{5mm}
 
 \headr{Education}
- 
+
+\vspace{0.5cm}
 \begin{tabular}{@{} p{0.01cm} @{} p{4.3cm} @{} p{5.7cm} @{} p{8cm}@{} }
 & Aug. 2019 - Aug. 2022 & \textbf{PhD} Applied Mathematics & University of Colorado Boulder (UCB)\\ 
 & Aug. 2017 - July 2019 & \textbf{MS} Applied Mathematics & Simon Fraser University (SFU)\\ 
 & Sept. 2011 - May 2015  & \textbf{BS} Mathematics, \textbf{BA} Physics & University of Puget Sound (UPS)
 \end{tabular}
+\vspace{0.5cm}
 
 %\headr{Research Interests}
 
@@ -75,6 +68,7 @@
 
 \headr{Research Experience}
 
+\vspace{0.5cm}
 \begin{tabular}{@{} p{0.01cm} @{} p{4cm} @{} p{16cm}@{} }
 & 10/2024 - (current)  & 
 \textbf{Director's Postdoc Fellow.}, T-5 Division; LANL \\
@@ -85,30 +79,27 @@
 & 08/2020 - 08/2022  & 
 \textbf{Research Assistant}, Applied Math, UCB; 
 Advisor: Dr. Bortz \\
-%& Summer 2019  & 
-%\textbf{Research Assistant}, Mathematics, SFU;
-%\newline MS Advisors: Razvan Fetecau, Ralf Wittenberg \\
-%&     & \\
 & Summers 2018, 2019  & 
-\textbf{Research Assistant}, Math, SFU; Advisors: R. Fetecau, R. Wittenberg \\
-& Summer 2014  & 
-\textbf{Research Intern}, Pacific Northwest National Lab (PNNL) 
+\textbf{Research Assistant}, Math, SFU; Advisors: R. Fetecau, R. Wittenberg
+%& Summer 2014  & \textbf{Research Intern}, Pacific Northwest National Lab (PNNL) 
 \end{tabular}
+\vspace{0.5cm}
 
 
 \bibliographystyle{plain}
-\nobibliography{researchCU.bib}
+\nobibliography{bib_short.bib}
 
 \headr{Publications}
-\vspace{-0.5cm}
+
 \begin{itemize}
+\itemsep0em 
 \item \bibentry{minor2025learning}
 \item \bibentry{burby2024non}
 \item \bibentry{wang2024physics}
-\item \bibentry{messenger2024weak}
 \item \bibentry{bonneville2024comprehensive}
 \end{itemize}
-\begin{enumerate}
+\begin{enumerate}[label={[\arabic*]}]
+\itemsep0em 
 \item \bibentry{vasey2023influence}
 \item \bibentry{messenger2024weakeco}
 \item \bibentry{messenger2024asymptotic}
@@ -126,36 +117,37 @@ Advisor: Dr. Bortz \\
 \item \bibentry{messenger_equilibria_2020}
 \end{enumerate}
 
-%\headr{Preprints}
-%\vspace{-0.5cm}
-%\begin{enumerate}
-%\item \bibentry{messenger2022asymptotic}
-%\item \bibentry{messenger2023coarse}
-%\end{enumerate}
-
-
-
 \headr{Awards \& Scholarships}
 
-\begin{tabular}{@{} p{0.00cm} p{1cm} p{9cm} p{8cm}}
-& 2024 & Director's Postdoctoral Fellowship, T-5 Division & Los Alamos National Labs \\
-& 2024 & (Declined) Mathematical Sciences Postdoctoral Research Fellowship & NSF \\
-& 2023 & 10th Heidelberg Laureate Forum Young Researcher & HLFF \\
-& 2022 & Graduate Student Travel Award (MDS22) & SIAM \\
-& 2019 & Special Entrance Scholarship & UCB \\
-& 2019 & MSc Thesis Certificate with Distinction & SFU \\
-& 2018 & Best Poster Award & SFU Summer Symposium \\
-& 2018 & Graduate Fellowship & SFU \\
-& 2017 & Special Entrance Scholarship & SFU \\
-%& 2015 & Successful Participant & Mathematical Contest in Modeling \\
-%& 2011-2015 & Dean’s Scholarship & UPS\\
-%& 2012-2014 & Hoffman Construction Scholarship & UPS\\ 
-\end{tabular}
-\newpage
+\begin{enumerate}[label={[\arabic*]}]
+\itemsep0em 
+\item (2024) Director's Postdoctoral Fellowship \hfill Los Alamos National Labs 
+\item (2024) MSPRF (Declined)\hfill NSF 
+\item (2023) 10th Heidelberg Laureate Forum Young Researcher \hfill HLFF 
+\item (2022) Graduate Student Travel Award (MDS22) \hfill SIAM 
+\item (2019) Special Entrance Scholarship \hfill UCB 
+\item (2019) MSc Thesis Certificate with Distinction \hfill SFU 
+\end{enumerate}
+
+%\begin{tabular}{@{} p{0.00cm} p{1cm} p{9cm} p{8cm}}
+%& 2024 & Director's Postdoctoral Fellowship, T-5 Division & Los Alamos National Labs \\
+%& 2024 & (Declined) MSPRF & NSF \\
+%& 2023 & 10th Heidelberg Laureate Forum Young Researcher & HLFF \\
+%& 2022 & Graduate Student Travel Award (MDS22) & SIAM \\
+%& 2019 & Special Entrance Scholarship & UCB \\
+%& 2019 & MSc Thesis Certificate with Distinction & SFU \\
+%%& 2018 & Best Poster Award & SFU Summer Symposium \\
+%%& 2018 & Graduate Fellowship & SFU \\
+%%& 2017 & Special Entrance Scholarship & SFU \\
+%%& 2015 & Successful Participant & Mathematical Contest in Modeling \\
+%%& 2011-2015 & Dean’s Scholarship & UPS\\
+%%& 2012-2014 & Hoffman Construction Scholarship & UPS\\ 
+%\end{tabular}
+
 \headr{Press}
-\vspace{-0.5cm}
 \begin{sloppypar}
 \begin{enumerate}[label={[\arabic*]}]
+\itemsep0em 
 \item 
 \raggedright``The Weak Form is Stronger than you Think'', DAM et al., Oct.\ 1, 2024. {\it SIAM News}. {\footnotesize\url{www.siam.org/publications/siam-news/articles/the-weak-form-is-stronger-than-you-think/}}.
 \item 
@@ -170,14 +162,33 @@ Advisor: Dr. Bortz \\
 \end{enumerate}
 \end{sloppypar}
 
-\headr{Presentations}
-\vspace{-0.5cm}
+\headr{Presentations, Posters, Workshops - 2024}
+
 \begin{enumerate}[label={[\arabic*]}]
-\item (Invited) \textbf{Weak-Form Equation Learning: Future Directions}. CHaRMNET Annual Meeting, Virginia Tech, Blacksburg, VI. Dec. 3, 2024.
-\item (Invited) \textbf{Recent advances in weak-form equation learning
+\itemsep0em 
+
+\item \textbf{Weak-Form Equation Learning: Future Directions}. CHaRMNET Annual Meeting, Virginia Tech, Blacksburg, VI. Dec. 3, 2024.
+
+\item \textbf{Weak-form Inference of Hybrid Dynamics in
+Ecology: Coding Tutorial} (Workshop leader). U. Colorado Boulder \& U. Chicago (virtual). Aug.\ 21st, 2024.
+
+\item \textbf{Recent advances in weak-form equation learning
 with applications to multiscale phenomena}. WCCM 2024, Vancouver, Canada. July.\ 23rd, 2024.
-\item (Invited) \textbf{Recent Advances in Weak-form Equation Learning}. SIAM Annual Meeting 2024, Spokane, WA. July.\ 10th, 2024.
-\item (Invited) \textbf{Weak-form equation learning with applications to cell migration and general multiscale phenomena}. Applied Mathematics Seminar, University of Waterloo, Ontario, CA. Feb. 1st, 2024.
+
+\item \textbf{Recent Advances in Weak-form Equation Learning}. SIAM Annual 
+Meeting 2024, Spokane, WA. July.\ 10th, 2024.
+
+\item \textbf{Adventures of an Applied Mathematician} (Workshop leader). Calculus A/B, Peak-to-Peak High School. Lafayette, CO. May 17, 2024.
+
+\item \textbf{Interacting Particle Systems: Analysis, Control, Learning and Computation} (Workshop participant). ICERM, Providence, RI. May 6-10, 2024.
+
+\item \textbf{Weak-form equation learning with applications to cell migration and general multiscale phenomena}. Applied Mathematics Seminar, University of Waterloo, Ontario, CA. Feb. 1st, 2024.
+
+\end{enumerate}
+
+\headr{Presentations $(<2024)$}
+
+\begin{enumerate}
 \item (Contributed) \textbf{Recent advances in Weak-Form Equation Learning with
 applications to collective cell migration}. Mathematical Biology Seminar, University of Colorado, Boulder, CO. Oct. 31, 2023.
 \item (Invited) \textbf{Weak-form equation learning using WSINDy}. Presentation for T-5 Group, Theoretical Division, Los Alamos National Laboratory, NM. Sept. 1st, 2023.
@@ -205,10 +216,10 @@ Rules from Individual Trajectories in a Heterogeneous Cellular Population}. SIAM
 \item (Invited) \textbf{Normal and Enhanced Vibrational Spectroscopy}. Summer Intern Research Symposium, Pacific Northwest National Laboratory, Richland, WA. July 28, 2014.
 \end{enumerate}
 
-\headr{Posters} 
+\headr{Posters $(<2024)$}
 \vspace{-0.5cm}
 \begin{enumerate}[label={[\arabic*]}]
-\item (Contributed) \textbf{Coarse-Graining Hamiltonian Systems Using WSINDy}. APPM Graduate Student Recruitment Poster Session, CU Boulder. March. 13, 2024.
+\item \textbf{Coarse-Graining Hamiltonian Systems Using WSINDy}. APPM Graduate Student Recruitment Poster Session, CU Boulder. March. 13, 2024.
 \item (Invited) \textbf{Coarse-Graining Hamiltonian Systems Using WSINDy}. ChaRMNET Annual Meeting, MSU, East Lansing, MI. Dec. 4, 2023.
 \item (Invited) \textbf{Data-Driven Model Selection using Weak SINDy}. Inaugural Workshop: AI for Dynamic Systems, University of Washington, Seattle, WA. March. 16, 2022.
 \item (Invited) \textbf{Data-Driven Model Selection using Weak SINDy}. APPM Recruitment Symposium, University of Colorado, Boulder, CO. March. 11, 2022.
@@ -218,11 +229,9 @@ Rules from Individual Trajectories in a Heterogeneous Cellular Population}. SIAM
 \item (Contributed) \textbf{Normal and Enhanced Vibrational Spectroscopy}. Fall Research Poster Session, University of Puget Sound, Tacoma, WA. Sept. 11, 2014.
 \end{enumerate}
 
-\headr{Workshops}
+\headr{Workshops $(<2024)$}
 \vspace{-0.5cm}
 \begin{enumerate}[label={[\arabic*]}]
-\item \textbf{Adventures of an Applied Mathematician} (Workshop leader). Calculus A/B, Peak-to-Peak High School. Lafayette, CO. May 17, 2024.
-\item \textbf{Interacting Particle Systems: Analysis, Control, Learning and Computation}. ICERM, Providence, RI. May 6-10, 2024.
 \item \textbf{CHaRMNET Annual Meeting}. MSU, East Lansing, MI. Dec. 4-6, 2023.
 \item \textbf{Weak-form system identification and parameter estimation}. Workshop organized by N. Mangan, virtual, Aug. 8, 2023.
 \item \textbf{Weak Derivatives and the real world} (Workshop leader). Calculus A/B, Peak-to-Peak High School. Lafayette, CO. May 15, 2023.
