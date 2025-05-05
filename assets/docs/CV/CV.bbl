@@ -28,10 +28,10 @@ David~M. Bortz, Daniel~A. Messenger, and April Tran.
   {{Analysis Meets Machine Learning}}}, volume~25 of {\em Handbook of
   {{Numerical Analysis}}}, pages 54--82. Elsevier, 2024.
 
-\bibitem{burby2024non}
-JW~Burby, IA~Maldonado, M~Ruth, and DA~Messenger.
-\newblock The non-perturbative adiabatic invariant is all you need.
-\newblock {\em arXiv preprint arXiv:2410.02175}, 2024.
+\bibitem{burby2025nonperturbative}
+JW~Burby, IA~Maldonado, M~Ruth, DA~Messenger, and L~Carbajal.
+\newblock Nonperturbative guiding center model for magnetized plasmas.
+\newblock {\em Physical Review Letters}, 134(17):175101, 2025.
 
 \bibitem{fetecau2018zero}
 Razvan~C. Fetecau, Hui Huang, Daniel Messenger, and Weiran Sun.
@@ -93,6 +93,11 @@ Seth Minor, Daniel~A Messenger, Vanja Dukic, and David~M Bortz.
 \newblock Learning weather models from data with wsindy.
 \newblock {\em arXiv preprint arXiv:2501.00738}, 2025.
 
+\bibitem{rummel2025wendy}
+Nic Rummel, Daniel~A Messenger, Stephen Becker, Vanja Dukic, and David~M Bortz.
+\newblock Wendy for nonlinear-in-parameter odes.
+\newblock {\em arXiv preprint arXiv:2502.08881}, 2025.
+
 \bibitem{RUSSO202497}
 Benjamin~P. Russo, Daniel~A. Messenger, David Bortz, and Joel~A. Rosenfeld.
 \newblock Weighted composition operators for learning nonlinear dynamics.
@@ -112,10 +117,10 @@ Gina Vasey, Daniel Messenger, David Bortz, Andrew Christlieb, and Brian O'Shea.
   and information entropy for ideal mhd problems.
 \newblock {\em Journal of Computational Physics}, page 113719, 2025.
 
-\bibitem{wang2024physics}
-Reuben~RW Wang and Daniel Messenger.
+\bibitem{wang2025physics}
+Reuben~RW Wang and Daniel~A Messenger.
 \newblock Physics-guided weak-form discovery of reduced-order models for
   trapped ultracold hydrodynamics.
-\newblock {\em ({\it In review}) arXiv preprint arXiv:2406.07519}, 2024.
+\newblock {\em Physical Review A}, 111(3):033311, 2025.
 
 \end{thebibliography}

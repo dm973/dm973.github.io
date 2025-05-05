@@ -6,12 +6,12 @@ Database file #1: bib_short.bib
 Warning--empty publisher in BortzMessengerTran2024NumericalAnalysisMeetsMachineLearning
 You've used 19 entries,
             2118 wiz_defined-function locations,
-            605 strings with 6644 characters,
-and the built_in function-call counts, 6266 in all, are:
+            605 strings with 6749 characters,
+and the built_in function-call counts, 6264 in all, are:
 = -- 580
 > -- 397
 < -- 2
-+ -- 157
++ -- 156
 - -- 136
 * -- 466
 := -- 1117
@@ -35,7 +35,7 @@ purify$ -- 105
 quote$ -- 0
 skip$ -- 157
 stack$ -- 0
-substring$ -- 234
+substring$ -- 233
 swap$ -- 35
 text.length$ -- 2
 text.prefix$ -- 0
