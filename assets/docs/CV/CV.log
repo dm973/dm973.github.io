@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  5 MAY 2025 14:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  10 AUG 2025 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -604,27 +604,28 @@ l.155 \newpage
 name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.192 \item (
-             Invited) \textbf{Weak-Form Equation Learning for Interacting Pa...
+l.190 \item (
+             Contributed) \textbf{Recent advances in Weak-Form Equation Lear...
 [3]
-Overfull \hbox (5.9464pt too wide) in paragraph at lines 204--205
+Overfull \hbox (5.9464pt too wide) in paragraph at lines 209--210
 []\OT1/cmr/m/n/10.95 (Contributed) \OT1/cmr/bx/n/10.95 Aggregation-Diffusion Ph
 e-nom-ena in Do-mains with Bound-aries\OT1/cmr/m/n/10.95 . SIAM
- []
-
-
-Overfull \hbox (6.25055pt too wide) in paragraph at lines 206--207
-[]\OT1/cmr/m/n/10.95 (Contributed) \OT1/cmr/bx/n/10.95 Aggregation-Diffusion Ph
-e-nom-ena in Do-mains with Bound-aries\OT1/cmr/m/n/10.95 . Cana-
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.210 \end{enumerate}
-                      [4]
-Overfull \hbox (10.23138pt too wide) in paragraph at lines 221--222
+l.211 \item (
+             Contributed) \textbf{Aggregation-Diffusion Phenomena in Domains...
+[4]
+Overfull \hbox (6.25055pt too wide) in paragraph at lines 211--212
+[]\OT1/cmr/m/n/10.95 (Contributed) \OT1/cmr/bx/n/10.95 Aggregation-Diffusion Ph
+e-nom-ena in Do-mains with Bound-aries\OT1/cmr/m/n/10.95 . Cana-
+ []
+
+
+Overfull \hbox (10.23138pt too wide) in paragraph at lines 226--227
 []\OT1/cmr/m/n/10.95 (Contributed) \OT1/cmr/bx/n/10.95 Ran-dom In-ter-act-ing P
 ar-ti-cle Sys-tems: Nu-mer-ics for the Zero-Diffusion
  []
@@ -633,14 +634,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.239 \end{enumerate}
-                      [5]
-Overfull \hbox (35.9998pt too wide) in paragraph at lines 241--262
+l.239 \item \textbf
+                   {WENDy tutorial in MATLAB}. Guest lecture and workshop, A...
+[5]
+Overfull \hbox (35.9998pt too wide) in paragraph at lines 247--268
 [] 
  []
 
 
-Overfull \hbox (35.9998pt too wide) in paragraph at lines 264--279
+Overfull \hbox (35.9998pt too wide) in paragraph at lines 270--285
 [] 
  []
 
@@ -648,19 +650,24 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.298 \end{document}
-                     [6] (./CV.aux)
+l.304 \end{document}
+                     [6]pdfTeX warning (ext4): destination with the same identi
+fier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.304 \end{document}
+                     [7] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13001 strings out of 478287
- 203879 string characters out of 5849289
+ 13006 strings out of 478287
+ 203914 string characters out of 5849289
  540474 words of memory out of 5000000
  30900 multiletter control sequences out of 15000+600000
  478744 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,76p,999b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,76p,999b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
@@ -669,10 +676,10 @@ t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
 ublic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on CV.pdf (6 pages, 141701 bytes).
+Output written on CV.pdf (7 pages, 147089 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 166 compressed objects within 2 object streams
- 92 named destinations out of 1000 (max. 500000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 97 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

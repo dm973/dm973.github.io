@@ -90,12 +90,12 @@ Daniel~A Messenger, Graycen~E Wheeler, Xuedong Liu, and David~M Bortz.
 
 \bibitem{minor2025learning}
 Seth Minor, Daniel~A Messenger, Vanja Dukic, and David~M Bortz.
-\newblock Learning weather models from data with wsindy.
-\newblock {\em arXiv preprint arXiv:2501.00738}, 2025.
+\newblock Learning weather models from data with {WSIND}y.
+\newblock {\em ({\it Accepted}) arXiv preprint arXiv:2501.00738}, 2025.
 
 \bibitem{rummel2025wendy}
 Nic Rummel, Daniel~A Messenger, Stephen Becker, Vanja Dukic, and David~M Bortz.
-\newblock Wendy for nonlinear-in-parameter odes.
+\newblock {WENDy} for nonlinear-in-parameter odes.
 \newblock {\em arXiv preprint arXiv:2502.08881}, 2025.
 
 \bibitem{RUSSO202497}
